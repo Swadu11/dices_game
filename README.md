@@ -3,7 +3,7 @@
 A simple web-based dice rolling game that randomly generates two dice rolls and declares the winner or a draw.
 
 ## 📌 Live Demo  
-You can view the live demo of this project here: [https://swadu11.github.io/dices_game/]()
+You can view the live demo of this project here: (https://swadu11.github.io/dices_game/)
 
 ## 🚀 Features  
 - Generates a random dice roll for **Player 1** and **Player 2**  
